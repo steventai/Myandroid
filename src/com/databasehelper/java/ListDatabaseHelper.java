@@ -25,6 +25,7 @@ public class ListDatabaseHelper {
 	// constructor
 	//steven+2014 1230
 	//steven+2014 1230...02
+	//steven+2014 1230...03
 	
 	public ListDatabaseHelper(Context myAdapter) {
 		openHelper = new ListTrackerOpenHelper(myAdapter);
